@@ -9,3 +9,4 @@
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Emoji Cheatheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [Emoji Cheatseet2](https://github.com/jingyuexing/Note/blob/master/GithubEmoji/emoji.md)
+* [MarkdownLearningNote](https://github.com/huarui0/MarkdownLearningNote/blob/master/MarkdownLearningNote.md)
