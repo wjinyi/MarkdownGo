@@ -14,3 +14,4 @@
 ## good notes on github
 * [kerolloz/markdown](https://github.com/kerolloz/markdown)
 * [LearnShare/Learning-Markdown](https://github.com/LearnShare/Learning-Markdown/blob/master/SUMMARY.md)
+* [huarui0/MarkdownLearningNote](https://github.com/huarui0/MarkdownLearningNote/blob/master/MarkdownLearningNote.md)
