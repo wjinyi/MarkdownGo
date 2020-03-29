@@ -10,3 +10,7 @@
 * [Emoji Cheatheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [Emoji Cheatseet2](https://github.com/jingyuexing/Note/blob/master/GithubEmoji/emoji.md)
 * [MarkdownLearningNote](https://github.com/huarui0/MarkdownLearningNote/blob/master/MarkdownLearningNote.md)
+
+## good notes on github
+* [kerolloz/markdown](https://github.com/kerolloz/markdown)
+* [LearnShare/Learning-Markdown](https://github.com/LearnShare/Learning-Markdown/blob/master/SUMMARY.md)
